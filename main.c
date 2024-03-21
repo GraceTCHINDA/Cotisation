@@ -53,6 +53,9 @@ int main(void)
             scanf("%s",date);
 
             Cotisation(nom, montant, date);
+
+            printf("Cotisation effectuee avec success !!\n");
+
             
             break;
 
