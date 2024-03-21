@@ -32,7 +32,7 @@ void Afficher()
 int main(void)
 {
     int choix;
-
+    printf("\n\n########### BIENVENUE A TOUS DANS MON PROGRAMME ###########\n\n\n");
     printf("Veuillez choisir une option \n");
     printf("\t1. Enregistrer une cotisation \n");
     printf("\t2. Afficher l'historique des cotisations\n");
